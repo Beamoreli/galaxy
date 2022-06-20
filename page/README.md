@@ -4,8 +4,7 @@ Landing page baseada numa galaxia
 
 Animação de imagem do foguete com CSS para dar o efeito de movimento na página.
 
-[https://media.discordapp.net/attachments/971065406712320010/988590289474166794/unknown.png?width=1383&height=683]
-
+![image](https://user-images.githubusercontent.com/79378960/174689817-93d49c73-9b0e-40a0-8667-13f4dae5defa.png)
 
 
 
